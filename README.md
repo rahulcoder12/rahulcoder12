@@ -70,8 +70,8 @@ A real-time communication network prioritizing absolute privacy.
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulbhuiya&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbhuiya&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulcoder12&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulcoder12&theme=radical" alt="GitHub Streak" />
 </div>
 
 <!-- Replace "YOUR_GITHUB_USERNAME_HERE" with your actual GitHub username to activate the stat cards! -->
