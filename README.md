@@ -2,9 +2,9 @@
 <h3 align="center">Competitive Programmer | Full-Stack Developer | CSE @ NIT Silchar</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rahulbhuiya"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/rahul-bhuiya"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <a href="mailto:rahulbhuiya2004@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
-  <a href="https://codeforces.com/profile/"><img src="https://img.shields.io/badge/-Codeforces-1f8bcb?style=flat-square&logo=Codeforces&logoColor=white"></a>
+  <a href="[https://codeforces.com/profile/](https://codeforces.com/profile/ImpersonaTe)"><img src="https://img.shields.io/badge/-Codeforces-1f8bcb?style=flat-square&logo=Codeforces&logoColor=white"></a>
   <a href="https://leetcode.com/u/racoder_1/"><img src="https://img.shields.io/badge/-LeetCode-ffa116?style=flat-square&logo=LeetCode&logoColor=black"></a>
   <a href="https://www.codechef.com/users/racoder_1"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white"></a>
 </p>
