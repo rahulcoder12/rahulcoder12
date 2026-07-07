@@ -1,80 +1,102 @@
-<h1 align="center">Hi 👋, I'm Rahul Bhuiya</h1>
-<h3 align="center">Competitive Programmer | Full-Stack Developer | CSE @ NIT Silchar</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/rahul-bhuiya"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
- <a href="mailto:rahulbhuiya2004@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email Me">
-</a>
-  <a href="https://codeforces.com/profile/ImpersonaTe"><img src="https://img.shields.io/badge/-Codeforces-1f8bcb?style=flat-square&logo=Codeforces&logoColor=white"></a>
-  <a href="https://leetcode.com/u/racoder_1/"><img src="https://img.shields.io/badge/-LeetCode-ffa116?style=flat-square&logo=LeetCode&logoColor=black"></a>
-  <a href="https://www.codechef.com/users/racoder_1"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white"></a>
-</p>
+# Hi there, I'm Rahul Bhuiya 👋
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Competitive+Programmer+%40+CodeChef+4-Star;CS+Undergrad+%40+NIT+Silchar;Building+Tech-Freak+%26+SecureNet" alt="Typing SVG" />
 
----
+</div>
 
-### 👨‍💻 About Me
+🎓 B.Tech in Computer Science @ **NIT Silchar** (Class of 2027)
+💼 Benchmarked frontier AI models (GPT-5, Claude) on real-world coding tasks as a CLI Task Engineer @ AirDawgs Lab
+🚀 Currently building full-stack projects and sharpening DSA for on-campus placements
+🌱 Recently shipped a zero-knowledge E2EE chat app and an ML-powered e-commerce platform
 
-- 🎓 4th-Year Computer Science and Engineering student at **National Institute of Technology, Silchar** (CGPA: 7.91).
-- ⚡ I spend my time optimizing C++ algorithms, navigating projects in `tmux` on my macOS environment, and architecting scalable backend systems.
-- 🏆 Passionate about competitive programming with **1700+ problems solved** across platforms and an active competitor in ICPC (Rank 29 Chennai Regionals).
-- 💡 Currently exploring AI benchmarking, prompt engineering, and zero-knowledge encryption protocols.
-- 🤝 Moderator at **Coding Club, NIT Silchar**, where I mentor 50+ juniors and curate algorithmic contest challenges.
+<div align="center">
 
-### 🛠️ Tech Stack & Tools
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulbhuiya2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-bhuiya/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/racoder_1/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rahulstudy1000)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/racoder_1)
+[![Codolio](https://img.shields.io/badge/Codolio-6C5CE7?style=for-the-badge&logoColor=white)](https://codolio.com/profile/racoder_1)
 
-**Languages:**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Web & Frameworks:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-**Databases & Security:**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Tools & Environment:**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
 ---
 
-### 🏆 Competitive Programming & Achievements
+### 🛠️ Tech Stack
 
-- 🔵 **Codeforces**: Expert (Max: 1664) | Top 500+ finishes in 5+ global rounds
-- 🟤 **CodeChef**: 4-Star (Max: 1906)
-- 🟠 **LeetCode**: Guardian (500+ problems solved)
-- 🚩 **ICPC 2025**: Rank 125 Prelims | Rank 29 Chennai Regionals | Rank 176 Amritapuri Regionals
-- 💡 **Hackathons**: Rank 96 in Goldman Sachs Hackathon | Meta Hacker Cup Round 2 Qualifier (2024 & 2025).
+**Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Web & Frameworks**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools & Environment**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🛒 [Tech-Freak: Explore, Buy, Manage](#)
-A decoupled full-stack e-commerce architecture integrating a dynamic recommendation engine. 
-- **Stack**: React, Node.js, MongoDB Atlas, Python, FastAPI, Pandas, Scikit-learn
-- **Highlights**: Engineered collaborative filtering via Cosine Similarity for dynamic product suggestions based on user interaction weights. Handled complex Mongoose seeding and seamless CORS/routing across microservices.
+**[Tech-Freak — Explore, Buy, Manage](https://github.com/rahulcoder12/TechFreak)**
+Decoupled full-stack e-commerce platform with a real-time ML recommendation engine using collaborative filtering (cosine similarity) to personalize product suggestions.
+`React` `Vite` `Node.js` `MongoDB Atlas` `Python` `FastAPI` `Pandas` `Scikit-learn`
 
-#### 🔒 [SecureNet: Zero-Knowledge E2EE Chat](#)
-A real-time communication network prioritizing absolute privacy.
-- **Stack**: React, Node.js, WebSockets, Web Crypto API
-- **Highlights**: Implemented ephemeral ECDH P-256 key pairs and AES-256-GCM encryption. Designed a zero-knowledge, volatile in-memory routing switchboard that actively routes messages for 1,000+ users while persisting zero data.
+**[SecureNet — Zero-Knowledge E2EE Chat](https://github.com/rahulcoder12/End-to-End-Encrypted-Chat)** · [🔴 Live Demo](https://e2ee-network.vercel.app/)
+Real-time end-to-end encrypted messaging network built on the native Web Crypto API (ECDH P-256 + AES-256-GCM), routing messages for 1,000+ concurrent users through a zero-knowledge, in-memory switchboard that persists nothing to disk.
+`React` `Node.js` `WebSockets` `Web Crypto API` `AES-256-GCM`
 
 ---
 
-### 💼 Experience
+### 🏆 Competitive Programming
 
-**Advanced CLI Task Engineer | AirDawgs Lab** *(Mar 2026 – Jun 2026)*
-- Engineered multi-step command-line reasoning tasks to evaluate frontier AI models.
-- Validated coding trajectories in Docker environments using pytest, executing rigorous code reviews to ensure production readiness in open-source repositories.
+- 🥇 **CodeChef:** 4★ · peak rating **1906**
+- ⚔️ **Codeforces:** Expert · peak rating **1664**
+- 🛡️ **LeetCode:** Guardian · **500+** problems solved
+- 📊 **1700+ problems** solved across platforms — [tracked on Codolio](https://codolio.com/profile/racoder_1)
+- 🏅 **ICPC 2025:** Rank 125 in Prelims → advanced to Chennai (Rank 29) and Amritapuri (Rank 176) Regionals
+- 🌐 Qualified for **Round 2 of Meta Hacker Cup** (2024 & 2025), Smart India Hackathon, and Amazon Hack-on
+- 🎯 Rank 96 in the Goldman Sachs Hackathon
+
+### 👨‍🏫 Community
+
+Moderator @ **Coding Club, NIT Silchar** — leading 15+ weekly workshops for 50+ juniors and running contest challenges that engaged 100+ participants.
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulcoder12&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulcoder12&theme=radical" alt="GitHub Streak" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rahulcoder12&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulcoder12&layout=compact&theme=radical&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=rahulcoder12&theme=radical&hide_border=true" />
+
 </div>
 
-<!-- Replace "YOUR_GITHUB_USERNAME_HERE" with your actual GitHub username to activate the stat cards! -->
+---
+
+<div align="center">
+
+📫 Reach me at **rahulbhuiya2004@gmail.com**
+
+![Profile Views](https://komarev.com/ghpvc/?username=rahulcoder12&color=58A6FF&style=flat)
+
+</div>
