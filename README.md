@@ -84,8 +84,8 @@ Moderator @ **Coding Club, NIT Silchar** — leading 15+ weekly workshops for 50
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rahulcoder12&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulcoder12&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=rahulcoder12&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rahulcoder12&layout=compact&theme=radical&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com/?user=rahulcoder12&theme=radical&hide_border=true" />
 
